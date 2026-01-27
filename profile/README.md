@@ -19,7 +19,7 @@ Soluciones de análisis, visualización y gestión de datos para equipos y empre
 
 ## Resumen
 
-`RockStar Data` desarrolla plataformas y componentes para transformar datos en decisiones: dashboards, APIs, aplicaciones móviles y prototipos de IA. Nuestro foco es entregar soluciones escalables, seguras y mantenibles que integren analítica avanzada con flujos de producto reales.
+RockStar Data desarrolla plataformas y componentes para transformar datos en decisiones: dashboards, APIs, aplicaciones móviles y prototipos de IA. Nuestro foco es entregar soluciones escalables, seguras y mantenibles que integren analítica avanzada con flujos de producto reales.
 
 **Lo que hacemos:**
 
@@ -32,23 +32,60 @@ Soluciones de análisis, visualización y gestión de datos para equipos y empre
 
 ## Novedades y métricas
 
-![GitHub Org Stats](https://github-readme-stats.vercel.app/api?username=rockstardata&show_icons=true&theme=radical&count_private=true)
+[![GitHub Org Stats](https://github-readme-stats.vercel.app/api?username=rockstardata&show_icons=true&theme=radical&count_private=true)](https://github.com/rockstardata)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rockstardata&theme=react-dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockstardata&theme=radical&layout=compact)](https://github.com/rockstardata)
 
 ---
 
 ## Proyectos destacados
 
-| Proyecto | Descripción breve | Tecnologías |
-|---|---:|---|
-| **Dashboard Web** | Panel de control para KPIs y reporting (multi-tenant, permisos). | Next.js, TypeScript, TailwindCSS |
-| **piloStar (Mobile)** | App móvil con Clean Architecture y sincronización segura. | Flutter, Dart, Firebase |
-| **API Backend** | Backend modular y extensible para productos y reportes. | NestJS, PostgreSQL, Redis, Stripe |
-| **DB Schema** | Esquema y documentación centralizada del modelo de datos. | PostgreSQL, SQL |
-| **ChatBot-MCP** | Agent para consultas analíticas con LLM y generación de queries. | FastAPI, OpenAI, LLMs |
+### Dashboard (Web)
+Panel de control para KPIs y reporting con soporte multi-tenant y control de permisos granular.
 
-> Enlaces rápidos: [Dashboard](https://github.com/rockstardata/dashboard) • [piloStar](https://github.com/rockstardata/piloStar) • [API](https://github.com/rockstardata/api) • [DB Schema](https://github.com/rockstardata/rockstardata-db-schema) • [ChatBot-MCP](https://github.com/rockstardata/ChatBot-MCP)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/dashboard)
+
+---
+
+### PiloStar (Mobile)
+Aplicación móvil con arquitectura limpia, BLoC y sincronización segura en tiempo real con Firebase.
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/plioStar)
+
+---
+
+### API (Backend)
+Backend modular y escalable con autenticación JWT, integraciones de pagos e IA, y reportería avanzada.
+
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/api)
+
+---
+
+### DB Schema
+Esquema de base de datos centralizado con documentación completa para integración de sistemas.
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/rockstardata-db-schema)
+
+---
+
+### ChatBot-MCP (Data Agent)
+Agente de IA para consultas analíticas con LLM, generación automática de SQL y respuestas en lenguaje natural.
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/ChatBot-MCP)
 
 ---
 
