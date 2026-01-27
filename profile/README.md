@@ -2,7 +2,6 @@
 
 ![logo_rsd](logo_rockstar_horizontal.png)
 
-# RockStar Data
 
 **Transformamos datos en decisiones. Escalamos equipos con plataformas inteligentes.**
 </div>
