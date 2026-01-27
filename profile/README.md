@@ -32,9 +32,9 @@ RockStar Data desarrolla plataformas y componentes para transformar datos en dec
 
 ## Novedades y métricas
 
-[![GitHub Org Stats](https://github-readme-stats.vercel.app/api?username=rockstardata&show_icons=true&theme=radical&count_private=true)](https://github.com/rockstardata)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rockstardata&theme=radical&layout=compact)](https://github.com/rockstardata)
+![Organización GitHub](https://img.shields.io/badge/GitHub%20Organization-RockStar%20Data-181717?style=for-the-badge&logo=github)
+![Repositorios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/rockstardata&query=public_repos&label=Repositorios%20P%C3%BAblicos&color=0366d6&style=for-the-badge)
+![Miembros](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/rockstardata&query=members_count&label=Miembros&color=28a745&style=for-the-badge)
 
 ---
 
