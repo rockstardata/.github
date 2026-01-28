@@ -202,6 +202,7 @@ Backend intermedio robusto que conecta Botpress con PostgreSQL para la consulta 
 3. **[API Backend](https://github.com/rockstardata/api)** - Servicios backend
 4. **[DB Schema](https://github.com/rockstardata/rockstardata-db-schema)** - Modelo de datos
 5. **[ChatBot-MCP](https://github.com/rockstardata/ChatBot-MCP)** - Agente de IA
+6. **[ChatBot-Botpress](https://github.com/rockstardata/ChatBot_Botpress)** - Agente con IA
 
 ### Requisitos Mínimos
 
