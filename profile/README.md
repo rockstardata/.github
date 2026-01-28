@@ -117,6 +117,17 @@ Agente de IA para consultas analíticas con LLM, generación automática de SQL 
 
 ---
 
+### ChatBot-Botpress (KPI Backend)
+Backend intermedio robusto que conecta Botpress con PostgreSQL para la consulta de KPIs, gestión de reportes y datos meteorológicos en tiempo real.
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Botpress](https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white)](https://botpress.com)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rockstardata/ChatBot_Botpress)
+
+---
+
 ## Tecnologías Principales
 
 ### Frontend
