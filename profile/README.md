@@ -78,7 +78,7 @@ Panel de control para KPIs y reporting con soporte multi-tenant y control de per
 
 ---
 
-### PiloStar (Mobile)
+### Pilotstar (Mobile)
 Aplicación móvil con arquitectura limpia, BLoC y sincronización segura en tiempo real con Firebase.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -198,7 +198,7 @@ Backend intermedio robusto que conecta Botpress con PostgreSQL para la consulta 
 ### Explorar Proyectos
 
 1. **[Dashboard Web](https://github.com/rockstardata/dashboard)** - Visualización de datos
-2. **[piloStar Mobile](https://github.com/rockstardata/piloStar)** - Apps móviles
+2. **[pilotstar Mobile](https://github.com/rockstardata/pilotstar)** - Apps móviles
 3. **[API Backend](https://github.com/rockstardata/api)** - Servicios backend
 4. **[DB Schema](https://github.com/rockstardata/rockstardata-db-schema)** - Modelo de datos
 5. **[ChatBot-MCP](https://github.com/rockstardata/ChatBot-MCP)** - Agente de IA
